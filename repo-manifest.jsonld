@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/apple-codesign-action-example/commit/8349e37cd6735d00c39a6818f0fea9c8c007754f",
       "git:hexsha": "8349e37cd6735d00c39a6818f0fea9c8c007754f",
-      "repolex:parseStatus": "ast_complete",
+      "repolex:parseStatus": "enrich_complete",
       "git:tagName": "main"
     }
   ]
