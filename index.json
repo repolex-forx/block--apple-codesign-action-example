@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "apple-codesign-action-example",
+  "versions": [
+    {
+      "commit": "8349e37cd6735d00c39a6818f0fea9c8c007754f",
+      "tag": "main",
+      "parsed_at": "2026-10-02T11:30:15.784135+00:00"
+    }
+  ]
+}
